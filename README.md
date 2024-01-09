@@ -1,3 +1,8 @@
+![sc](https://github.com/sachnaror/REACT-Realtime-ToDo-App/assets/9551754/9cb25dbc-6b93-441b-8140-8052097df44a)
+
+
+
+
 ## Get started with React Hooks
 
 This is a demo repository for a React Todo application using only functional components and Hooks to manage state.
